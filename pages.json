@@ -1,0 +1,193 @@
+{
+  "pages": [
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    }
+  ],
+  "subPackages": [
+    {
+      "root": "pages/patient",
+      "pages": [
+        {
+          "path": "education",
+          "style": {
+            "navigationBarTitleText": "健康宣教"
+          }
+        },
+        {
+          "path": "educationDetail",
+          "style": {
+            "navigationBarTitleText": "健康宣教详情"
+          }
+        },
+        {
+          "path": "my",
+          "style": {
+            "navigationBarTitleText": "我的"
+          }
+        },
+        {
+          "path": "treatment",
+          "style": {
+            "navigationBarTitleText": "治疗卡"
+          }
+        },
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "首页"
+          }
+        },
+        {
+          "path": "contactDoctor",
+          "style": {
+            "navigationBarTitleText": "联系医生"
+          }
+        },
+        {
+          "path": "fallillrecord",
+          "style": {
+            "navigationBarTitleText": "不良反应记录"
+          }
+        },
+        {
+          "path": "drugDrinkingRecord",
+          "style": {
+            "navigationBarTitleText": "服药记录"
+          }
+        },
+        {
+          "path": "fallillRecordList",
+          "style": {
+            "navigationBarTitleText": "不良反应列表"
+          }
+        },
+        {
+          "path": "interruptList",
+          "style": {
+            "navigationBarTitleText": "中断服药记录"
+          }
+        },
+        {
+          "path": "lookList",
+          "style": {
+            "navigationBarTitleText": "检查记录"
+          }
+        },
+        {
+          "path": "reviewList",
+          "style": {
+            "navigationBarTitleText": "复查记录"
+          }
+        },
+        {
+          "path": "reviewDetail",
+          "style": {
+            "navigationBarTitleText": "复查报告"
+          }
+        },
+        {
+          "path": "followup",
+          "style": {
+            "navigationBarTitleText": "随访记录"
+          }
+        },
+        {
+          "path": "followupFirstDetail",
+          "style": {
+            "navigationBarTitleText": "随访详情"
+          }
+        },
+        {
+          "path": "messageList",
+          "style": {
+            "navigationBarTitleText": "联系医生"
+          }
+        },
+        {
+          "path": "followupMoreDetail",
+          "style": {
+            "navigationBarTitleText": "随访详情"
+          }
+        }
+      ]
+    },
+    {
+      "root": "pages/doctor",
+      "pages": [
+        {
+          "path": "index",
+          "style": {
+            "navigationBarTitleText": "首页"
+          }
+        },
+        {
+          "path": "my",
+          "style": {
+            "navigationBarTitleText": "我的"
+          }
+        },
+        {
+          "path": "message",
+          "style": {
+            "navigationBarTitleText": "患者留言"
+          }
+        },
+        {
+          "path": "patient",
+          "style": {
+            "navigationBarTitleText": "患者"
+          }
+        },
+        {
+          "path": "treatment",
+          "style": {
+            "navigationBarTitleText": "患者治疗卡"
+          }
+        },
+        {
+          "path": "handlePatient",
+          "style": {
+            "navigationBarTitleText": "不良反应处置"
+          }
+        },
+        {
+          "path": "supplement",
+          "style": {
+            "navigationBarTitleText": "服药补录"
+          }
+        },
+        {
+          "path": "firstFollowup",
+          "style": {
+            "navigationBarTitleText": "首次随访"
+          }
+        },
+        {
+          "path": "moreFollowup",
+          "style": {
+            "navigationBarTitleText": "后续随访"
+          }
+        },
+        {
+          "path": "editPassword",
+          "style": {
+            "navigationBarTitleText": "修改密码"
+          }
+        }
+      ]
+    }
+  ],
+  "globalStyle": {
+    "navigationStyle": "custom"
+  }
+}
